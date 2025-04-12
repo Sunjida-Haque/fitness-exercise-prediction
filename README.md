@@ -74,4 +74,4 @@ LUT University
 ## 🔗 Repository Link
 
 To view the full notebook and model walkthrough, visit:  
-👉 **[GitHub Repo](https://github.com/yourusername/fitness-exercise-prediction)** ← _(replace with your real link)_
+👉 **[GitHub Repo](https://github.com/Sunjida-Haque/fitness-exercise-prediction)** 
